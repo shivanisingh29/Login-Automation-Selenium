@@ -12,8 +12,8 @@
 - ChromeDriver
 
 ## Installation
-   pip install selenium
-   pip install webdriver-manager
+   - pip install selenium
+   - pip install webdriver-manager
 
 ## How To Run 
 - Pycharm run Process is  shif+F10
